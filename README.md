@@ -1,4 +1,4 @@
 # CSC483
-# Screaming-Eagles
+# NathanMoelker.
 .gitignore
 
